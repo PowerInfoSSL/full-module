@@ -16,5 +16,8 @@ if your os(All linux base Distro such as RHEL, DEBIAN , ...) doesnt know your sp
 #
 4- ./full-module.py
 #
-and whait for complate proccess .#
+#
+#
+and whait for complate proccess .
+#
 then insert or Enable your new and unknown Hardware .
