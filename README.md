@@ -6,7 +6,9 @@ load your Distro to full Module(Driver) Mode
 
 #how to use , step by step:
 
-#1- git clone https://github.com/PowerInfoSSL/full-module.git
+#
+
+1- git clone https://github.com/PowerInfoSSL/full-module.git
 #2- cd full-module
 #3- chmod +x src full-module.py
 #4- ./full-module.py
