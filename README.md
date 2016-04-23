@@ -9,9 +9,12 @@ load your Distro to full Module(Driver) Mode
 #
 
 1- git clone https://github.com/PowerInfoSSL/full-module.git
-#2- cd full-module
-#3- chmod +x src full-module.py
-#4- ./full-module.py
-
-#and whait for complate proccess .
-#then insert or Enable your new and unknown Hardware .
+#
+2- cd full-module
+#
+3- chmod +x src full-module.py
+#
+4- ./full-module.py
+#
+and whait for complate proccess .
+then insert or Enable your new and unknown Hardware .
